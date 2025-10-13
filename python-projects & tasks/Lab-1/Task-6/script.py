@@ -1,28 +1,20 @@
 import random
 
 CENA_PALIWA = 6.5
-def oblicz_srednie_spalanie():
-    przebyta_droga = float(input('Podaj przebytą drogę: '))
-    srednie_spalanie = float(input('Podaj średnie spalanie: '))
-
-    przewidywane_zuzycie = przebyta_droga * srednie_spalanie / 100
-    przywidywany_koszt_podrozy = przewidywane_zuzycie * CENA_PALIWA
-
-    print(f'Przewidywane zużycie paliwa w Twoim przypadku wynosi: {przewidywane_zuzycie} litrów \nSzacowane koszta podróży wynoszą: {round(przywidywany_koszt_podrozy, 2)} PLN')
-
-oblicz_srednie_spalanie()
+JEDNOSTKA_ZUZYCIA = 100
 
 help(random.randint) # randint(a, b) method of random.Random instance, Return random integer in range [a, b], including both end points.
 
-def oblicz_koszty_eksploatacji():
-    przebyta_droga = random.randrange(10, 100)
+def oblicz_koszt_podróży():
+    droga_losowa = random.randint(10, 100)
 
-    srednie_spalanie = float(input('Podaj średnie spalanie: '))
-    cena_paliwa = float(input('Podaj cenę paliwa za 1 litr: '))
+    przebyta_droga = int(input('Podaj przebytą drogę: ')  or droga_losowa)
+    srednie_spalanie = int(input('Podaj średnie spalanie: '))
+    cena_paliwa = int(input('Podaj aktualną cenę paliwa: ') or CENA_PALIWA)
 
-    przewidywane_zuzycie = przebyta_droga * srednie_spalanie / 100
-    przywidywany_koszt_podrozy = przewidywane_zuzycie * cena_paliwa
+    zuzycie_paliwa = przebyta_droga * srednie_spalanie / JEDNOSTKA_ZUZYCIA
+    przewidywany_koszt = cena_paliwa * zuzycie_paliwa
 
-    print(f'Przewidywane zużycie paliwa: {przewidywane_zuzycie} litrów \nSzacowane koszta: {round(przywidywany_koszt_podrozy, 2)} PLN')
+    print(f'Zużycie paliwa wynosi: {zuzycie_paliwa} litrów, a koszty szacowane są na {round(przewidywany_koszt, 2)} zł')
 
-oblicz_koszty_eksploatacji()
+oblicz_koszt_podróży()
