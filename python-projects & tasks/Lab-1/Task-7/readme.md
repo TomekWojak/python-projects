@@ -1,0 +1,1 @@
+![Obraz poglądowy przedstawiający schemat blokowy](https://i.imgur.com/dH7MWJe.png)
