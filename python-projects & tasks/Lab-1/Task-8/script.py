@@ -3,9 +3,6 @@ def oblicz_rownanie_kwadratowe():
     b = float(input('Podaj b: '))
     c = float(input('Podaj c: '))
 
-    x1 = None
-    x2 = None
-
     delta = b * b - 4 * a * c
 
     if delta < 0:
