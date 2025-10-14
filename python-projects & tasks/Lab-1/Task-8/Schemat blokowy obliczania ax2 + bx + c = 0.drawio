@@ -1,196 +1,174 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Strona-1" id="RZRkuXlCFEClB1dA92GK">
-    <mxGraphModel dx="1737" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-1" value="h" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-2" target="KukcKEF_fKq0_9lhuXWE-5">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-1" value="h" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-2" target="KukcKEF_fKq0_9lhuXWE-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="363" y="70" width="117" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Start&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Start&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="401.5" y="95" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-5" target="KukcKEF_fKq0_9lhuXWE-7">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-5" target="KukcKEF_fKq0_9lhuXWE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-5" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-5" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="338.0899999999999" y="220" width="166.81" height="55" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Podaj a, b, c&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-6">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="362.25" y="235" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="327.61" y="360" width="187.76" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta = b * b - 4 * a * c&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-8">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="332.99" y="363.75" width="177" height="52.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="358" y="500" width="127" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-11" target="KukcKEF_fKq0_9lhuXWE-14">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-11" target="KukcKEF_fKq0_9lhuXWE-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta &amp;lt; 0&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-11">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="362.25" y="547.5" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-8" target="KukcKEF_fKq0_9lhuXWE-9">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-8" target="KukcKEF_fKq0_9lhuXWE-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-13" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-13" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="60" y="525" width="200" height="70" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Wyświetl:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 14px;&quot;&gt;Równanie nie ma rozwiązań&lt;/span&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-14">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="71.5" y="533.75" width="177" height="52.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-16" target="KukcKEF_fKq0_9lhuXWE-13">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-16" target="KukcKEF_fKq0_9lhuXWE-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="101.5" y="370" width="117" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-17" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-17" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="395" width="40" height="20" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-18">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="248.5" y="532" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-19">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="470" y="532" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="660" width="127" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-22" target="KukcKEF_fKq0_9lhuXWE-25">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-22" target="KukcKEF_fKq0_9lhuXWE-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta == 0&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-22">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="504.25" y="707.5" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-11" target="KukcKEF_fKq0_9lhuXWE-20">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-11" target="KukcKEF_fKq0_9lhuXWE-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-25" target="KukcKEF_fKq0_9lhuXWE-29">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-25" target="KukcKEF_fKq0_9lhuXWE-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="650" y="770" width="140" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-26">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="610" y="690" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1 = -b / (2 * a)&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-27">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="660.75" y="780" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x2 = x1&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-28">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="660.75" y="810" width="59.25" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="890" width="140" height="70" as="geometry" />
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="345" y="960" width="140" height="70" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Rozwiązania:&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-30">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="660.75" y="900" width="118.5" height="25" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="355.75" y="970" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1, x2&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-31">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="690.3699999999999" y="925" width="59.25" height="25" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="385.3699999999999" y="995" width="59.25" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="662.25" y="1010" width="117" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-33" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="700.75" y="1035" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-29" target="KukcKEF_fKq0_9lhuXWE-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="350" y="750" width="127" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-37" target="KukcKEF_fKq0_9lhuXWE-41">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-37" target="KukcKEF_fKq0_9lhuXWE-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta &amp;gt; 0&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-37">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="354.25" y="797.5" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-22" target="KukcKEF_fKq0_9lhuXWE-35">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-22" target="KukcKEF_fKq0_9lhuXWE-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-39">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="391.49" y="690" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-41" target="KukcKEF_fKq0_9lhuXWE-46">
+        <mxCell id="G4Cr7J7t3-RdqkxCm-6c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-41" target="KukcKEF_fKq0_9lhuXWE-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-41" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-41" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="770" width="250" height="80" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1 = -b - (delta** 0.5) / (2 * a)&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-42">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="25.75" y="780" width="228.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x2 = -b + (delta** 0.5) / (2 * a)&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-43">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="34.25" y="807.5" width="220" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-44">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="254.25" y="780" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-46" target="KukcKEF_fKq0_9lhuXWE-49">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="355.75" y="1087.5" width="117" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-50" value="&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="394.25" y="1112.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G4Cr7J7t3-RdqkxCm-6c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-29" target="KukcKEF_fKq0_9lhuXWE-49">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-46" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="902.5" width="140" height="70" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Rozwiązania:&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-47">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="30.75" y="912.5" width="118.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1, x2&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-48">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="60.370000000000005" y="937.5" width="59.25" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="31.49000000000001" y="1030" width="117" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-50" value="&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="69.99000000000001" y="1055" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
