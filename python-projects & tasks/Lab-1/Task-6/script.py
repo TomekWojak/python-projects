@@ -20,4 +20,4 @@ def oblicz_koszt_podróży():
 oblicz_koszt_podróży()
 
 # Mamy tu jedną, uniwersalną funkcję, która łączy główne zadanie z zadaniem z podpunktu A. Funkcja pyta użytkownika o przebytą drogę, średnie spalanie oraz cenę paliwa.
-# W przypadku, gdy użytkownik nie poda przebytej drogi - zostanie użyta losowa wartość. Tak samo, jeśli nie podano ceny paliwa - zostanie użyta cena przypisana na sztywno w zakresie globalnym.
+# W przypadku, gdy użytkownik nie poda przebytej drogi - zostanie użyta losowa wartość. Tak samo, jeśli nie podano ceny paliwa - zostanie użyta cena przypisana na sztywno z zakresu globalnego.
