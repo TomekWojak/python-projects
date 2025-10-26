@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Strona-1" id="RZRkuXlCFEClB1dA92GK">
-    <mxGraphModel dx="1489" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3143" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="KukcKEF_fKq0_9lhuXWE-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="363" y="70" width="117" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Start&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="KukcKEF_fKq0_9lhuXWE-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 20px;&quot;&gt;Start&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="401.5" y="95" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-5" target="KukcKEF_fKq0_9lhuXWE-7" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-5" target="FNVD6riHWAyLLZ3BOb6v-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KukcKEF_fKq0_9lhuXWE-5" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
@@ -24,152 +24,257 @@
             <mxGeometry x="362.25" y="235" width="118.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="327.61" y="360" width="187.76" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta = b * b - 4 * a * c&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-8">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="332.99" y="363.75" width="177" height="52.5" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="358" y="500" width="127" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-11" target="KukcKEF_fKq0_9lhuXWE-14" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-1" target="FNVD6riHWAyLLZ3BOb6v-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta &amp;lt; 0&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-11">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="362.25" y="547.5" width="118.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-8" target="KukcKEF_fKq0_9lhuXWE-9" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-1" target="FNVD6riHWAyLLZ3BOb6v-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-13" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="60" y="525" width="200" height="70" as="geometry" />
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="350" width="100" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Wyświetl:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 14px;&quot;&gt;Równanie nie ma rozwiązań&lt;/span&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-14">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="71.5" y="533.75" width="177" height="52.5" as="geometry" />
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;a == 0&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="379.37" y="387.5" width="84.26" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-16" target="KukcKEF_fKq0_9lhuXWE-13" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-5" target="FNVD6riHWAyLLZ3BOb6v-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="101.5" y="370" width="117" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-17" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="140" y="395" width="40" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-18">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="248.5" y="532" width="118.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-19">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="470" y="532" width="118.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="500" y="660" width="127" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-22" target="KukcKEF_fKq0_9lhuXWE-25" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-5" target="FNVD6riHWAyLLZ3BOb6v-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta == 0&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-22">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="504.25" y="707.5" width="118.5" height="25" as="geometry" />
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33.629999999999995" y="335" width="130" height="130" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="230" y="370" width="91.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-11" target="KukcKEF_fKq0_9lhuXWE-20" edge="1">
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;b == 0&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="66.50999999999999" y="362.5" width="64.25" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;c == 0&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-11">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="52.889999999999986" y="410" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;i&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-12">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="88.63999999999999" y="387.5" width="20" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-18" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="181.5" y="520" width="140" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-21">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="120" y="460" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;Wyśwetl: &quot;Równanie tożsamościowe&quot;&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-22">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="191.82" y="524" width="119.36" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-23" target="FNVD6riHWAyLLZ3BOb6v-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-25" target="KukcKEF_fKq0_9lhuXWE-29" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-23" target="FNVD6riHWAyLLZ3BOb6v-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="770" width="140" height="80" as="geometry" />
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="520" width="100" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-26">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="610" y="690" width="118.5" height="25" as="geometry" />
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-24.990000000000016" y="460" width="91.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1 = -b / (2 * a)&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-27">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="660.75" y="780" width="118.5" height="25" as="geometry" />
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;b == 0&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-26">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-82.13000000000001" y="557.5" width="64.25" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x2 = x1&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-28">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="660.75" y="810" width="59.25" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="345" y="960" width="140" height="70" as="geometry" />
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-27" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="660" width="140" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Rozwiązania:&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-30">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="355.75" y="970" width="118.5" height="25" as="geometry" />
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;Wyśwetl: &quot;Równanie jest sprzeczne&quot;&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-28">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="10.319999999999993" y="664" width="119.36" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1, x2&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-31">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="385.3699999999999" y="995" width="59.25" height="25" as="geometry" />
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-30">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-24.99000000000001" y="610" width="91.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="350" y="750" width="127" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-37" target="KukcKEF_fKq0_9lhuXWE-41" edge="1">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-31" target="FNVD6riHWAyLLZ3BOb6v-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta &amp;gt; 0&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-37">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="354.25" y="797.5" width="118.5" height="25" as="geometry" />
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="665" width="120" height="45" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-33">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-160" y="610" width="91.5" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KukcKEF_fKq0_9lhuXWE-22" target="KukcKEF_fKq0_9lhuXWE-35" edge="1">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Montserrat&quot;&gt;Wynik: -c / b&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-34">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-215.75" y="675" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-35" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="760" width="140" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;Wyświetl wynik&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-36">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-229.36" y="755" width="119.36" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="750" width="117" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-41" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 20px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="770" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-36" target="FNVD6riHWAyLLZ3BOb6v-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-39">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="391.49" y="690" width="118.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="G4Cr7J7t3-RdqkxCm-6c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-41" target="KukcKEF_fKq0_9lhuXWE-29">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-28" target="FNVD6riHWAyLLZ3BOb6v-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-41" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="770" width="250" height="80" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1 = -b - (delta** 0.5) / (2 * a)&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-42">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="25.75" y="780" width="228.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x2 = -b + (delta** 0.5) / (2 * a)&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-43">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="34.25" y="807.5" width="220" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="KukcKEF_fKq0_9lhuXWE-44">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="254.25" y="780" width="118.5" height="25" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="355.75" y="1087.5" width="117" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KukcKEF_fKq0_9lhuXWE-50" value="&lt;font face=&quot;Montserrat&quot; style=&quot;font-size: 30px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="394.25" y="1112.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G4Cr7J7t3-RdqkxCm-6c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KukcKEF_fKq0_9lhuXWE-29" target="KukcKEF_fKq0_9lhuXWE-49">
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-22" target="FNVD6riHWAyLLZ3BOb6v-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-45" target="FNVD6riHWAyLLZ3BOb6v-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="370" width="190" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-48">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="560" y="370" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta = b**2 - 4 * a * c&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-50">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="760" y="377.5" width="170" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-52" target="FNVD6riHWAyLLZ3BOb6v-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-52" target="FNVD6riHWAyLLZ3BOb6v-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="499" width="110" height="110" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta &amp;lt; 0&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-53">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="805" y="536.75" width="80" height="32.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-58" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="655" width="150" height="75" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;Wyśwetl: &quot;Równanie nie ma rozwiązań&quot;&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-59">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="595.3199999999999" y="660" width="119.36" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-63" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="786.5" y="1160" width="117" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-64" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Montserrat&quot; face=&quot;Montserrat&quot; style=&quot;font-size: 20px;&quot;&gt;Stop&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="825" y="1180" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-58" target="FNVD6riHWAyLLZ3BOb6v-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-68">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="750" y="675" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-76" target="FNVD6riHWAyLLZ3BOb6v-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-76" target="FNVD6riHWAyLLZ3BOb6v-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-76" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="800" width="110" height="110" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;delta == 0&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-77">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1105" y="840" width="80" height="30.25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-80">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="860" y="675" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-83" target="FNVD6riHWAyLLZ3BOb6v-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Tak&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-85">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1013.5" y="830" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x1 = -b / (2a)&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-86">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="975" y="940" width="110" height="30.25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;x2 = x1&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-87">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="975" y="970.25" width="70" height="30.25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-88" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1085" width="150" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;Wyświetl x1, x2&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-89">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1049.1399999999999" y="1080" width="119.36" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-89" target="FNVD6riHWAyLLZ3BOb6v-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNVD6riHWAyLLZ3BOb6v-92" target="FNVD6riHWAyLLZ3BOb6v-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNVD6riHWAyLLZ3BOb6v-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="930" width="200" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;x1 = (-b -&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;√delta) / (2a)&lt;/font&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-93">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1205" y="940" width="185" height="30.25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Montserrat&quot;&gt;Nie&lt;/font&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-96">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1195" y="830" width="91.5" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;x2 = (-b +&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;√delta) / (2a)&lt;/font&gt;&lt;/span&gt;" placeholders="1" name="Variable" id="FNVD6riHWAyLLZ3BOb6v-99">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1207.5" y="970.25" width="185" height="30.25" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
