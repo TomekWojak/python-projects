@@ -3,6 +3,19 @@ def oblicz_rownanie_kwadratowe():
     b = float(input('Podaj b: '))
     c = float(input('Podaj c: '))
 
+    if(a == 0):
+        if (b == 0 and c == 0):
+            print('Równianie tożsamościowe')
+            return
+        elif (b == 0 and c != 0):
+            print('Równanie jest sprzeczne')
+            return
+        else:
+            wynik = -c / b
+            print(f'Wynik funkcji liniowej: {round(wynik, 2)}')
+            return wynik
+
+
     delta = b * b - 4 * a * c
 
     if delta < 0:
