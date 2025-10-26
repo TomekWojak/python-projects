@@ -18,3 +18,6 @@ def oblicz_koszt_podróży():
     print(f'Zużycie paliwa wynosi: {zuzycie_paliwa} litrów, a koszty szacowane są na {round(przewidywany_koszt, 2)} zł')
 
 oblicz_koszt_podróży()
+
+# Mamy tu jedną, uniwersalną funkcję, która łączy główne zadanie z zadaniem z podpunktu A. Funkcja pyta użytkownika o przebytą drogę, średnie spalanie oraz cenę paliwa.
+# W przypadku, gdy użytkownik nie poda przebytej drogi - zostanie użyta losowa wartość. Tak samo, jeśli nie podano ceny paliwa - zostanie użyta cena przypisana na sztywno z zakresu globalnego.
