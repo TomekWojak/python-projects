@@ -7,6 +7,3 @@ print('Nazywam się' + " " + imię + " " + "i mam" + " " + str(wiek) + " lat" + 
 
 print(f"Nazywam się {imię} i mam {wiek} lat \nMój wzrost to {wzrost} cm")
 # f-string
-
-# Nazywam się Jan i mam 20 lat.
-# Mój wzrost to 178 cm.
