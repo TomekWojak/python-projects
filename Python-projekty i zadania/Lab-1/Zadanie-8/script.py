@@ -27,7 +27,7 @@ def oblicz_rownanie_kwadratowe():
     if delta == 0:
         x1 = -b / (2 * a)
         x2 = x1
-    elif delta > 0:
+    else:
         x1 = (-b - math.sqrt(delta)) / (2 * a)
         x2 = (-b + math.sqrt(delta)) / (2 * a)
 
