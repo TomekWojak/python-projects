@@ -1,15 +1,14 @@
 import random
 
 CENA_PALIWA = 6.5
+SREDNIE_SPALANIE = 7
 JEDNOSTKA_ZUZYCIA = 100
-
-help(random.randint) # randint(a, b) method of random.Random instance, Return random integer in range [a, b], including both end points.
 
 def oblicz_koszt_podróży():
     droga_losowa = random.randint(10, 100)
 
     przebyta_droga = float(input('Podaj przebytą drogę: ')  or droga_losowa)
-    srednie_spalanie = float(input('Podaj średnie spalanie: ') or 0)
+    srednie_spalanie = float(input('Podaj średnie spalanie: ') or SREDNIE_SPALANIE)
     cena_paliwa = float(input('Podaj aktualną cenę paliwa: ') or CENA_PALIWA)
 
     zuzycie_paliwa = przebyta_droga * srednie_spalanie / JEDNOSTKA_ZUZYCIA
