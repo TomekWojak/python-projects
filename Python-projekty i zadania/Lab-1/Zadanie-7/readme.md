@@ -2,5 +2,5 @@
 <br>
 <br>
 
-<img src="https://i.imgur.com/td549iS.png" alt="Schemat blokowy" width="350">
+<img src="https://i.imgur.com/D0JJ59Z.png" alt="Schemat blokowy" width="600">
 
