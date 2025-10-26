@@ -1,4 +1,4 @@
-### Poniżej załączam podgląd schematu blokowego dla algorytmu obliczającego równanie *ax + b = 0*
+### Poniżej załączam podgląd wykonanego przeze mnie schematu blokowego dla algorytmu obliczającego równanie *ax + b = 0*
 <br>
 <br>
 
