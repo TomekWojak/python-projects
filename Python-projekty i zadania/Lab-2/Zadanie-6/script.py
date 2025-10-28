@@ -3,8 +3,9 @@ def sprawdzWielkoscLitery():
         litera = input('Podaj literę lub wyraz: ').strip()
 
         if not litera:
+            print('Wartość nie może być pusta!')
             continue
-        else: break
+        break
 
     if len(litera) == 1:
         if litera == litera.upper():
