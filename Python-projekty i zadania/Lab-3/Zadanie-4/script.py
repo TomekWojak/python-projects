@@ -9,8 +9,12 @@ def podziel_rachunek():
             print("Podano nieprawidłową wartość")
 
     while len(ceny_potraw) < n:
-        cena = float(input('Podaj cenę pierwszej potrawy (waluta: zł): ') or 0)
-        ceny_potraw.append(cena)
+        try:
+            cena = float(input(f'Podaj cenę potrawy nr {len(ceny_potraw) + 1} (waluta: zł): '))
+            ceny_potraw.append(cena)
+        except ValueError:
+            print('Podano nieprawidłową wartość!')
+
 
     suma = sum(ceny_potraw)
     srednia_cena = suma / n
