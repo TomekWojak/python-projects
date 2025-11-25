@@ -1,7 +1,12 @@
 ceny_potraw = []
 def podziel_rachunek():
-    x = int(input('Podaj liczbę gości: ') or 0)
-    n = int(input('Podaj liczbę potraw: ') or 0)
+    while True:
+        try:
+            x = int(input('Podaj liczbę gości: '))
+            n = int(input('Podaj liczbę potraw: '))
+            break
+        except ValueError:
+            print("Podano nieprawidłową wartość")
 
     while len(ceny_potraw) < n:
         cena = float(input('Podaj cenę pierwszej potrawy (waluta: zł): ') or 0)
