@@ -1,3 +1,5 @@
+
+# Podpunkt a
 def oblicz_srednia_liczbe_pkt():
     punkty = []
     licznik = 1
@@ -28,6 +30,8 @@ def oblicz_srednia_liczbe_pkt():
 
 # oblicz_srednia_liczbe_pkt()
 
+
+# Podpunkt b
 def oblicz_srednia_liczbe_pkt_v2():
     punkty = []
     licznik = 1
@@ -57,4 +61,4 @@ def oblicz_srednia_liczbe_pkt_v2():
 
     print(f'Średnia liczba punktów w grupie wynosi {round(srednia, 2)}')
 
-oblicz_srednia_liczbe_pkt_v2()
+# oblicz_srednia_liczbe_pkt_v2()
