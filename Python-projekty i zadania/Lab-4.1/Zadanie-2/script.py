@@ -1,8 +1,13 @@
 def odwrocString(str):
-    stringOdwrocony = list(str)
-    stringOdwrocony.reverse()
-    print("".join(stringOdwrocony))
+    tekstJakoLista = list(str)
+    tekstJakoLista.reverse()
+
+    stringOdwrocony = "".join(tekstJakoLista)
+
+    return  stringOdwrocony
 
 
 
-odwrocString('Hello World')
+
+
+print(odwrocString('Hello World'))
