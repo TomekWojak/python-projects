@@ -1,4 +1,4 @@
-def odwrocString(str):
+def odwrocString(str: str):
     tekstJakoLista = list(str)
     tekstJakoLista.reverse()
 
