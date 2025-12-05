@@ -7,3 +7,4 @@ def obliczNtyWyrazCiagu(n):
 
 ntyWyrazCiagu = obliczNtyWyrazCiagu(10)
 print(ntyWyrazCiagu)
+
