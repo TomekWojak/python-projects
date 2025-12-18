@@ -35,4 +35,15 @@ dane_polaczone.to_csv("uczniowie-dane.csv", index=False, encoding="utf-8")
 
 # f)
 zmiany = pd.read_csv("uczniowie-dane.csv")
-print(zmiany)
+print(f'{zmiany} \n')
+
+# g)
+df.loc[len(df)] = [6, "Adam", "Kowalczyk", 4.0, 23]
+print(f'{df} \n')
+
+# h)
+print(f'{df['ocena'].unique()} \n')
+
+# i)
+print((df["ocena"] == 5).sum())
+
