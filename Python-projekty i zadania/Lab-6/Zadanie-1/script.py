@@ -1,4 +1,3 @@
-import numpy as np
 import matplotlib.pyplot as plt
 
 kategorie = ['Pieczywo', 'Słodycze', 'Nabiał', 'Napoje', 'Mięso']

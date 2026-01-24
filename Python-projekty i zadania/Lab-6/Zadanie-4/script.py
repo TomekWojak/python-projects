@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 
 lista_wagi = [128, 64, 32, 16, 8, 4, 2, 1]
